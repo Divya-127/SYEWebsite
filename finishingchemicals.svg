@@ -1,0 +1,112 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="400" height="200" fill="#f8f9fa" />
+
+  <!-- Title -->
+  <text x="200" y="20" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">Finishing Chemicals</text>
+
+  <!-- First Container Group -->
+  <g transform="translate(30, 50) scale(0.45)">
+    <!-- Container 1 - Softener -->
+    <g>
+      <!-- Container body - spray bottle -->
+      <path d="M70,45 L90,45 L95,65 L95,220 C95,230 85,235 80,235 C75,235 65,230 65,220 L65,65 Z" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <path d="M70,50 L90,50 L93,65 L93,215 C93,223 85,227 80,227 C75,227 67,223 67,215 L67,65 Z" fill="#1abc9c" opacity="0.7" />
+      <!-- Spray top -->
+      <rect x="70" y="30" width="20" height="15" rx="3" fill="#555" />
+      <path d="M85,30 C85,25 95,25 95,20 L105,20 C105,25 100,30 100,35 L85,35 Z" fill="#555" />
+      <!-- Label -->
+      <rect x="50" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="80" y="145" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">SOFTENER</text>
+      <text x="80" y="160" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">CATIONIC</text>
+      <text x="80" y="180" font-family="Arial" font-size="8" text-anchor="middle" fill="#333">Soft Touch</text>
+    </g>
+
+    <!-- Icon -->
+    <rect x="30" y="250" width="100" height="30" rx="3" fill="#1abc9c" />
+    <text x="80" y="270" font-family="Arial" font-size="10" text-anchor="middle" fill="white">SOFTENER</text>
+  </g>
+
+  <!-- Second Container Group -->
+  <g transform="translate(110, 50) scale(0.45)">
+    <!-- Container 2 - Water repellent -->
+    <g>
+      <!-- Container body - cylindrical -->
+      <path d="M40,60 C40,50 60,50 80,50 C100,50 120,50 120,60 V220 C120,230 100,230 80,230 C60,230 40,230 40,220 Z" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <path d="M45,65 C45,58 62,55 80,55 C98,55 115,58 115,65 V215 C115,222 98,225 80,225 C62,225 45,222 45,215 Z" fill="#3498db" opacity="0.7" />
+      <!-- Container top -->
+      <ellipse cx="80" cy="60" rx="40" ry="10" fill="#f8f8f8" stroke="#333" stroke-width="1" />
+      <ellipse cx="80" cy="50" rx="20" ry="5" fill="#555" />
+      <!-- Label -->
+      <rect x="50" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="80" y="140" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">WATER</text>
+      <text x="80" y="153" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">REPELLENT</text>
+      <text x="80" y="180" font-family="Arial" font-size="8" text-anchor="middle" fill="#333">Fluorocarbon</text>
+    </g>
+
+    <!-- Icon -->
+    <rect x="30" y="250" width="100" height="30" rx="3" fill="#3498db" />
+    <text x="80" y="270" font-family="Arial" font-size="10" text-anchor="middle" fill="white">REPELLENT</text>
+  </g>
+
+  <!-- Third Container Group -->
+  <g transform="translate(190, 50) scale(0.45)">
+    <!-- Container 3 - Flame retardant -->
+    <g>
+      <!-- Container body - square bottle -->
+      <rect x="40" y="40" width="80" height="180" rx="5" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <rect x="45" y="45" width="70" height="170" rx="3" fill="#e74c3c" opacity="0.7" />
+      <!-- Container top -->
+      <rect x="55" y="25" width="50" height="15" rx="2" fill="#555" />
+      <!-- Label -->
+      <rect x="50" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="80" y="140" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">FLAME</text>
+      <text x="80" y="153" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">RETARDANT</text>
+      <text x="80" y="180" font-family="Arial" font-size="8" text-anchor="middle" fill="#333">Phosphorus</text>
+    </g>
+
+    <!-- Icon -->
+    <rect x="30" y="250" width="100" height="30" rx="3" fill="#e74c3c" />
+    <text x="80" y="270" font-family="Arial" font-size="10" text-anchor="middle" fill="white">FR AGENT</text>
+  </g>
+
+  <!-- Fourth Container Group -->
+  <g transform="translate(270, 50) scale(0.45)">
+    <!-- Container 4 - Anti-wrinkle -->
+    <g>
+      <!-- Container body - hybrid shape -->
+      <path d="M40,80 L40,220 C40,230 60,235 80,235 C100,235 120,230 120,220 V80 C120,70 100,60 80,60 C60,60 40,70 40,80 Z" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <path d="M45,85 L45,215 C45,223 62,228 80,228 C98,228 115,223 115,215 V85 C115,77 98,67 80,67 C62,67 45,77 45,85 Z" fill="#9b59b6" opacity="0.7" />
+      <!-- Container top -->
+      <path d="M60,60 L60,30 H100 L100,60" fill="none" stroke="#333" stroke-width="2" />
+      <rect x="60" y="30" width="40" height="10" rx="5" fill="#555" />
+      <!-- Label -->
+      <rect x="50" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="80" y="140" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">ANTI</text>
+      <text x="80" y="153" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">WRINKLE</text>
+      <text x="80" y="180" font-family="Arial" font-size="8" text-anchor="middle" fill="#333">Resin Based</text>
+    </g>
+
+    <!-- Icon -->
+    <rect x="30" y="250" width="100" height="30" rx="3" fill="#9b59b6" />
+    <text x="80" y="270" font-family="Arial" font-size="10" text-anchor="middle" fill="white">WRINKLE RESIST</text>
+  </g>
+
+  <!-- Fabric Element -->
+  <g transform="translate(350, 160)">
+    <path d="M0,0 C5,5 15,-5 20,0 C25,5 35,-5 40,0" stroke="#333" stroke-width="1.5" fill="none" />
+    <path d="M0,5 C5,10 15,0 20,5 C25,10 35,0 40,5" stroke="#333" stroke-width="1.5" fill="none" />
+    <path d="M0,10 C5,15 15,5 20,10 C25,15 35,5 40,10" stroke="#333" stroke-width="1.5" fill="none" />
+  </g>
+
+  <!-- Molecular Structure Element -->
+  <g transform="translate(20, 150)">
+    <circle cx="0" cy="0" r="3" fill="#333" />
+    <circle cx="10" cy="5" r="3" fill="#333" />
+    <circle cx="5" cy="15" r="3" fill="#333" />
+    <circle cx="15" cy="15" r="3" fill="#333" />
+    <line x1="0" y1="0" x2="10" y2="5" stroke="#333" stroke-width="1" />
+    <line x1="10" y1="5" x2="5" y2="15" stroke="#333" stroke-width="1" />
+    <line x1="10" y1="5" x2="15" y2="15" stroke="#333" stroke-width="1" />
+  </g>
+</svg>

@@ -1,0 +1,111 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="400" height="200" fill="#f8f9fa" />
+
+  <!-- Title -->
+  <text x="200" y="20" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">Scouring Agents</text>
+
+  <!-- First Container Group -->
+  <g transform="translate(30, 50) scale(0.45)">
+    <!-- Container 1 - Alkaline scouring agent -->
+    <g>
+      <!-- Container body -->
+      <rect x="40" y="40" width="80" height="180" rx="5" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <!-- Container content -->
+      <rect x="45" y="85" width="70" height="130" rx="3" fill="#9b59b6" opacity="0.7" />
+      <!-- Container lid -->
+      <path d="M40,40 L50,25 H110 L120,40 Z" fill="#666" stroke="#333" stroke-width="1" />
+      <!-- Label -->
+      <rect x="50" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="80" y="145" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">ALKALINE</text>
+      <text x="80" y="160" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">pH 10-12</text>
+      <text x="80" y="180" font-family="Arial" font-size="8" text-anchor="middle" fill="#333">Cotton Scouring</text>
+    </g>
+
+    <!-- Indicator -->
+    <rect x="30" y="250" width="100" height="30" rx="3" fill="#9b59b6" />
+    <text x="80" y="270" font-family="Arial" font-size="10" text-anchor="middle" fill="white">ALKALINE</text>
+  </g>
+
+  <!-- Second Container Group -->
+  <g transform="translate(110, 50) scale(0.45)">
+    <!-- Container 2 - Enzymatic scouring -->
+    <g>
+      <!-- Container body -->
+      <rect x="40" y="40" width="80" height="180" rx="5" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <!-- Container content -->
+      <rect x="45" y="85" width="70" height="130" rx="3" fill="#27ae60" opacity="0.7" />
+      <!-- Container lid -->
+      <path d="M40,40 L50,25 H110 L120,40 Z" fill="#666" stroke="#333" stroke-width="1" />
+      <!-- Label -->
+      <rect x="50" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="80" y="145" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">ENZYME</text>
+      <text x="80" y="160" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">pH 6-8</text>
+      <text x="80" y="180" font-family="Arial" font-size="8" text-anchor="middle" fill="#333">Bio-Scouring</text>
+    </g>
+
+    <!-- Indicator -->
+    <rect x="30" y="250" width="100" height="30" rx="3" fill="#27ae60" />
+    <text x="80" y="270" font-family="Arial" font-size="10" text-anchor="middle" fill="white">ENZYMATIC</text>
+  </g>
+
+  <!-- Third Container Group -->
+  <g transform="translate(190, 50) scale(0.45)">
+    <!-- Container 3 - Detergent -->
+    <g>
+      <!-- Container body - rounded bottle -->
+      <path d="M45,40 C40,40 35,45 35,50 V215 C35,220 40,225 45,225 H115 C120,225 125,220 125,215 V50 C125,45 120,40 115,40 Z" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <!-- Container content -->
+      <path d="M45,45 C42,45 40,47 40,50 V210 C40,213 42,215 45,215 H115 C118,215 120,213 120,210 V50 C120,47 118,45 115,45 Z" fill="#3498db" opacity="0.7" />
+      <!-- Container lid -->
+      <rect x="60" y="25" width="40" height="15" rx="5" fill="#666" />
+      <!-- Label -->
+      <rect x="50" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="80" y="145" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">DETERGENT</text>
+      <text x="80" y="160" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">NONIONIC</text>
+      <text x="80" y="180" font-family="Arial" font-size="8" text-anchor="middle" fill="#333">All Fibers</text>
+    </g>
+
+    <!-- Indicator -->
+    <rect x="30" y="250" width="100" height="30" rx="3" fill="#3498db" />
+    <text x="80" y="270" font-family="Arial" font-size="10" text-anchor="middle" fill="white">DETERGENT</text>
+  </g>
+
+  <!-- Fourth Container Group -->
+  <g transform="translate(270, 50) scale(0.45)">
+    <!-- Container 4 - Solvent -->
+    <g>
+      <!-- Container body - metal can -->
+      <rect x="40" y="40" width="80" height="180" rx="0" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <ellipse cx="80" cy="40" rx="40" ry="10" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <ellipse cx="80" cy="220" rx="40" ry="10" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <!-- Container content indication -->
+      <rect x="45" y="85" width="70" height="130" rx="0" fill="#e67e22" opacity="0.7" />
+      <!-- Lid detail -->
+      <ellipse cx="80" cy="40" rx="20" ry="5" fill="#666" stroke="#333" stroke-width="1" />
+      <!-- Label -->
+      <rect x="50" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="80" y="145" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">SOLVENT</text>
+      <text x="80" y="160" font-family="Arial" font-size="10" text-anchor="middle" fill="#333">BASED</text>
+      <text x="80" y="180" font-family="Arial" font-size="8" text-anchor="middle" fill="#333">Synthetic Fibers</text>
+    </g>
+
+    <!-- Indicator -->
+    <rect x="30" y="250" width="100" height="30" rx="3" fill="#e67e22" />
+    <text x="80" y="270" font-family="Arial" font-size="10" text-anchor="middle" fill="white">SOLVENT</text>
+  </g>
+
+  <!-- Process Indication -->
+  <g transform="translate(360, 160)">
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#333" stroke-width="2" />
+    <path d="M-10,-5 L0,5 L10,-5" stroke="#333" stroke-width="2" fill="none" />
+    <path d="M-10,5 L0,15 L10,5" stroke="#333" stroke-width="2" fill="none" />
+  </g>
+
+  <!-- Water Droplets -->
+  <g transform="translate(20, 170)">
+    <path d="M0,0 C0,-5 10,-5 10,0 C10,5 0,5 0,0 Z" fill="#3498db" opacity="0.7" />
+    <path d="M15,5 C15,0 25,0 25,5 C25,10 15,10 15,5 Z" fill="#3498db" opacity="0.7" />
+    <path d="M5,10 C5,5 15,5 15,10 C15,15 5,15 5,10 Z" fill="#3498db" opacity="0.7" />
+  </g>
+</svg>

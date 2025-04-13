@@ -1,0 +1,101 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="400" height="200" fill="#f8f9fa" />
+
+  <!-- Title -->
+  <text x="200" y="20" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">Dyeing Agents</text>
+
+  <!-- First Bottle Group -->
+  <g transform="translate(30, 50) scale(0.45)">
+    <!-- Bottle 1 - Red dye -->
+    <g>
+      <!-- Bottle body -->
+      <path d="M30,60 C30,40 50,40 50,20 L90,20 C90,40 110,40 110,60 L110,220 C110,235 90,235 70,235 C50,235 30,235 30,220 Z" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <!-- Liquid -->
+      <path d="M35,65 C35,50 50,45 50,30 L90,30 C90,45 105,50 105,65 L105,215 C105,225 90,230 70,230 C50,230 35,225 35,215 Z" fill="#e74c3c" opacity="0.8" />
+      <!-- Bottle cap -->
+      <rect x="55" y="5" width="30" height="15" rx="2" fill="#555" />
+      <!-- Label -->
+      <rect x="40" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="70" y="155" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">RED</text>
+      <text x="70" y="175" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Textile Dye</text>
+    </g>
+
+    <!-- Color swatch -->
+    <rect x="30" y="250" width="80" height="30" rx="3" fill="#e74c3c" />
+    <text x="70" y="270" font-family="Arial" font-size="12" text-anchor="middle" fill="white">RED DYE</text>
+  </g>
+
+  <!-- Second Bottle Group -->
+  <g transform="translate(110, 50) scale(0.45)">
+    <!-- Bottle 2 - Blue dye -->
+    <g>
+      <!-- Bottle body -->
+      <path d="M30,60 C30,40 50,40 50,20 L90,20 C90,40 110,40 110,60 L110,220 C110,235 90,235 70,235 C50,235 30,235 30,220 Z" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <!-- Liquid -->
+      <path d="M35,65 C35,50 50,45 50,30 L90,30 C90,45 105,50 105,65 L105,215 C105,225 90,230 70,230 C50,230 35,225 35,215 Z" fill="#3498db" opacity="0.8" />
+      <!-- Bottle cap -->
+      <rect x="55" y="5" width="30" height="15" rx="2" fill="#555" />
+      <!-- Label -->
+      <rect x="40" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="70" y="155" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">BLUE</text>
+      <text x="70" y="175" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Textile Dye</text>
+    </g>
+
+    <!-- Color swatch -->
+    <rect x="30" y="250" width="80" height="30" rx="3" fill="#3498db" />
+    <text x="70" y="270" font-family="Arial" font-size="12" text-anchor="middle" fill="white">BLUE DYE</text>
+  </g>
+
+  <!-- Third Bottle Group -->
+  <g transform="translate(190, 50) scale(0.45)">
+    <!-- Bottle 3 - Yellow dye -->
+    <g>
+      <!-- Bottle body -->
+      <path d="M30,60 C30,40 50,40 50,20 L90,20 C90,40 110,40 110,60 L110,220 C110,235 90,235 70,235 C50,235 30,235 30,220 Z" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <!-- Liquid -->
+      <path d="M35,65 C35,50 50,45 50,30 L90,30 C90,45 105,50 105,65 L105,215 C105,225 90,230 70,230 C50,230 35,225 35,215 Z" fill="#f1c40f" opacity="0.8" />
+      <!-- Bottle cap -->
+      <rect x="55" y="5" width="30" height="15" rx="2" fill="#555" />
+      <!-- Label -->
+      <rect x="40" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="70" y="155" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">YELLOW</text>
+      <text x="70" y="175" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Textile Dye</text>
+    </g>
+
+    <!-- Color swatch -->
+    <rect x="30" y="250" width="80" height="30" rx="3" fill="#f1c40f" />
+    <text x="70" y="270" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">YELLOW DYE</text>
+  </g>
+
+  <!-- Fourth Bottle Group -->
+  <g transform="translate(270, 50) scale(0.45)">
+    <!-- Bottle 4 - Green dye -->
+    <g>
+      <!-- Bottle body -->
+      <path d="M30,60 C30,40 50,40 50,20 L90,20 C90,40 110,40 110,60 L110,220 C110,235 90,235 70,235 C50,235 30,235 30,220 Z" fill="#f8f8f8" stroke="#333" stroke-width="2" />
+      <!-- Liquid -->
+      <path d="M35,65 C35,50 50,45 50,30 L90,30 C90,45 105,50 105,65 L105,215 C105,225 90,230 70,230 C50,230 35,225 35,215 Z" fill="#2ecc71" opacity="0.8" />
+      <!-- Bottle cap -->
+      <rect x="55" y="5" width="30" height="15" rx="2" fill="#555" />
+      <!-- Label -->
+      <rect x="40" y="120" width="60" height="80" rx="5" fill="white" stroke="#333" />
+      <text x="70" y="155" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">GREEN</text>
+      <text x="70" y="175" font-family="Arial" font-size="12" text-anchor="middle" fill="#333">Textile Dye</text>
+    </g>
+
+    <!-- Color swatch -->
+    <rect x="30" y="250" width="80" height="30" rx="3" fill="#2ecc71" />
+    <text x="70" y="270" font-family="Arial" font-size="12" text-anchor="middle" fill="white">GREEN DYE</text>
+  </g>
+
+  <!-- Color Mixing Circle -->
+  <g transform="translate(350, 160) scale(0.4)">
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#333" stroke-width="2" />
+    <path d="M0,0 L-28.3,28.3" stroke="#e74c3c" stroke-width="2" />
+    <path d="M0,0 L28.3,28.3" stroke="#3498db" stroke-width="2" />
+    <path d="M0,0 L0,-40" stroke="#f1c40f" stroke-width="2" />
+    <path d="M0,0 L0,40" stroke="#2ecc71" stroke-width="2" />
+    <circle cx="0" cy="0" r="8" fill="#333" />
+  </g>
+</svg>
